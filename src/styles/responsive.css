@@ -1,0 +1,9 @@
+@import url('./vars.css');
+
+/* body */
+
+@media screen and (max-width: 768px) {
+	html {
+		font-size: 16px !important;
+	}
+}
